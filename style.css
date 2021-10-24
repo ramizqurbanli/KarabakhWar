@@ -1,0 +1,38 @@
+*{
+    margin:0;
+}
+html{
+    background-color: #fff;
+    color:rgb(53, 49, 49);;
+}
+.navbar{
+    background-color: rgb(65, 64, 64);
+    position: fixed;
+    width: 100%;
+    height: 55px;
+    margin-top: 0px;
+    padding: 0px;
+    opacity: 1;
+    margin-bottom: 1%;
+    opacity: 0.9;
+    overflow: hidden;
+
+}
+.khary_bulbul{
+    height: 48px;
+    width: 64px;
+    user-select: none;
+    opacity: 1;
+}
+.any{
+    width: 100%;
+    height: 200px; 
+}
+#myVideo{
+    margin-bottom: 100px;
+    user-select: none;
+}
+.lorem{
+    margin-top: 500px;
+
+}
