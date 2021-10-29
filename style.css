@@ -29,10 +29,5 @@ html{
     height: 200px; 
 }
 #myVideo{
-    margin-bottom: 100px;
     user-select: none;
-}
-.lorem{
-    margin-top: 500px;
-
 }
