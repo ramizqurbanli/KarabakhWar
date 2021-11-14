@@ -8,7 +8,7 @@ html{
 .navbar{
     background-color: rgb(68, 65, 65);
     width: 100%;
-    height: 55px;
+    height: 45px;
     margin-top: 0px;
     padding: 0px;
     opacity: 1;
@@ -17,14 +17,17 @@ html{
 
 }
 .lang {
-    position: relative;
     float: right;
+    height: 30px;
+    size: 25px;
+    margin-top: 15px;
 }
 .khary_bulbul{
     height: 48px;
     width: 64px;
     user-select: none;
     opacity: 1;
+    margin-bottom: 4px;
 }
 #myVideo{
     user-select: none;
