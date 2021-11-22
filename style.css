@@ -29,5 +29,5 @@ html{
 }
 #myVideo{
     user-select: none;
-    filter:blur(2px)
+    filter:blur(0.2px)
 }
