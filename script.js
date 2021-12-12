@@ -1,4 +1,1 @@
-
-function checklang(){
-     console.log(document.querySelector(".lang").value);
-}
+document.querySelector(".iframe").style.height=screen.height-50+"px";
