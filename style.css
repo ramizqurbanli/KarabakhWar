@@ -23,7 +23,7 @@ html{
     margin-bottom: 5px;
 }
 .title{
-    font-size: 72px;
+    font-size: 60px;
     background: -webkit-linear-gradient(yellow,red);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
