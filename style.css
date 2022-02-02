@@ -44,7 +44,7 @@ html{
     text-transform: uppercase;
     color: yellow;
     margin-left: 3%;
-    font-family: 'Supermercado One', cursive;
+    font-family: cursive;
  }
  ::-webkit-scrollbar {
     width: 10px;
