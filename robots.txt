@@ -1,3 +1,2 @@
 User-Agent: *
-Disallow: /index.html
-Disallow: /karabakh_heroes.html
+Disallow: /khary_bulbul.png
